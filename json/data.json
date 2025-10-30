@@ -1,0 +1,302 @@
+[
+  {
+    "12m Chg": "35.0%",
+    "1d Chg": "-0.1%",
+    "1m Chg": "10.2%",
+    "Company": "3M",
+    "Market Cap": "89.5",
+    "Price": "168.40",
+    "Symbol": "MMM",
+    "Yield": "1.7%"
+  },
+  {
+    "12m Chg": "35.3%",
+    "1d Chg": "1.1%",
+    "1m Chg": "5.9%",
+    "Company": "American Express",
+    "Market Cap": "249.1",
+    "Price": "361.67",
+    "Symbol": "AXP",
+    "Yield": "0.9%"
+  },
+  {
+    "12m Chg": "-8.1%",
+    "1d Chg": "-0.2%",
+    "1m Chg": "6.7%",
+    "Company": "Amgen",
+    "Market Cap": "0.0",
+    "Price": "0.00",
+    "Symbol": "AMGN",
+    "Yield": "#DIV/0!"
+  },
+  {
+    "12m Chg": "16.2%",
+    "1d Chg": "2.3%",
+    "1m Chg": "5.2%",
+    "Company": "Apple",
+    "Market Cap": "3,989.2",
+    "Price": "268.81",
+    "Symbol": "AAPL",
+    "Yield": "0.4%"
+  },
+  {
+    "12m Chg": "43.9%",
+    "1d Chg": "0.7%",
+    "1m Chg": "0.8%",
+    "Company": "Boeing",
+    "Market Cap": "0.0",
+    "Price": "0.00",
+    "Symbol": "BA",
+    "Yield": "#DIV/0!"
+  },
+  {
+    "12m Chg": "36.6%",
+    "1d Chg": "0.8%",
+    "1m Chg": "13.2%",
+    "Company": "Caterpillar",
+    "Market Cap": "246.9",
+    "Price": "527.07",
+    "Symbol": "CAT",
+    "Yield": "1.1%"
+  },
+  {
+    "12m Chg": "3.0%",
+    "1d Chg": "-0.2%",
+    "1m Chg": "-3.0%",
+    "Company": "Chevron",
+    "Market Cap": "317.9",
+    "Price": "155.28",
+    "Symbol": "CVX",
+    "Yield": "4.4%"
+  },
+  {
+    "12m Chg": "28.1%",
+    "1d Chg": "1.1%",
+    "1m Chg": "6.2%",
+    "Company": "Cisco",
+    "Market Cap": "282.2",
+    "Price": "71.39",
+    "Symbol": "CSCO",
+    "Yield": "2.3%"
+  },
+  {
+    "12m Chg": "4.7%",
+    "1d Chg": "0.5%",
+    "1m Chg": "6.7%",
+    "Company": "Coca-Cola",
+    "Market Cap": "301.4",
+    "Price": "70.06",
+    "Symbol": "KO",
+    "Yield": "2.9%"
+  },
+  {
+    "12m Chg": "18.2%",
+    "1d Chg": "0.6%",
+    "1m Chg": "-1.0%",
+    "Company": "Disney",
+    "Market Cap": "202.0",
+    "Price": "112.34",
+    "Symbol": "DIS",
+    "Yield": "0.9%"
+  },
+  {
+    "12m Chg": "-48.2%",
+    "1d Chg": "3.7%",
+    "1m Chg": "12.1%",
+    "Company": "Dow",
+    "Market Cap": "18.3",
+    "Price": "25.73",
+    "Symbol": "DOW",
+    "Yield": "5.4%"
+  },
+  {
+    "12m Chg": "54.1%",
+    "1d Chg": "0.8%",
+    "1m Chg": "-1.6%",
+    "Company": "Goldman Sachs",
+    "Market Cap": "239.1",
+    "Price": "789.99",
+    "Symbol": "GS",
+    "Yield": "2.0%"
+  },
+  {
+    "12m Chg": "-3.4%",
+    "1d Chg": "-0.4%",
+    "1m Chg": "-6.1%",
+    "Company": "Home Depot",
+    "Market Cap": "383.5",
+    "Price": "385.27",
+    "Symbol": "HD",
+    "Yield": "2.4%"
+  },
+  {
+    "12m Chg": "3.4%",
+    "1d Chg": "-0.5%",
+    "1m Chg": "3.3%",
+    "Company": "Honeywell",
+    "Market Cap": "136.5",
+    "Price": "215.07",
+    "Symbol": "HON",
+    "Yield": "2.2%"
+  },
+  {
+    "12m Chg": "45.8%",
+    "1d Chg": "1.8%",
+    "1m Chg": "10.1%",
+    "Company": "IBM",
+    "Market Cap": "292.7",
+    "Price": "313.09",
+    "Symbol": "IBM",
+    "Yield": "2.1%"
+  },
+  {
+    "12m Chg": "74.3%",
+    "1d Chg": "3.3%",
+    "1m Chg": "11.4%",
+    "Company": "Intel",
+    "Market Cap": "188.4",
+    "Price": "39.54",
+    "Symbol": "INTC",
+    "Yield": "0.0%"
+  },
+  {
+    "12m Chg": "18.3%",
+    "1d Chg": "-0.1%",
+    "1m Chg": "5.9%",
+    "Company": "Johnson \u0026 Johnson",
+    "Market Cap": "458.5",
+    "Price": "190.30",
+    "Symbol": "JNJ",
+    "Yield": "2.7%"
+  },
+  {
+    "12m Chg": "36.8%",
+    "1d Chg": "1.2%",
+    "1m Chg": "-3.8%",
+    "Company": "JPMorgan Chase",
+    "Market Cap": "828.0",
+    "Price": "304.15",
+    "Symbol": "JPM",
+    "Yield": "2.0%"
+  },
+  {
+    "12m Chg": "5.9%",
+    "1d Chg": "1.4%",
+    "1m Chg": "1.6%",
+    "Company": "McDonalds",
+    "Market Cap": "221.2",
+    "Price": "310.00",
+    "Symbol": "MCD",
+    "Yield": "2.3%"
+  },
+  {
+    "12m Chg": "-15.4%",
+    "1d Chg": "0.6%",
+    "1m Chg": "12.0%",
+    "Company": "Merck",
+    "Market Cap": "219.8",
+    "Price": "88.00",
+    "Symbol": "MRK",
+    "Yield": "3.7%"
+  },
+  {
+    "12m Chg": "24.1%",
+    "1d Chg": "1.5%",
+    "1m Chg": "3.9%",
+    "Company": "Microsoft",
+    "Market Cap": "3,950.8",
+    "Price": "531.52",
+    "Symbol": "MSFT",
+    "Yield": "0.7%"
+  },
+  {
+    "12m Chg": "-13.0%",
+    "1d Chg": "-0.8%",
+    "1m Chg": "-1.0%",
+    "Company": "Nike",
+    "Market Cap": "101.4",
+    "Price": "68.59",
+    "Symbol": "NKE",
+    "Yield": "2.3%"
+  },
+  {
+    "12m Chg": "-9.8%",
+    "1d Chg": "-0.5%",
+    "1m Chg": "-0.5%",
+    "Company": "Procter \u0026 Gamble",
+    "Market Cap": "355.1",
+    "Price": "151.74",
+    "Symbol": "PG",
+    "Yield": "2.8%"
+  },
+  {
+    "12m Chg": "-12.0%",
+    "1d Chg": "0.3%",
+    "1m Chg": "4.9%",
+    "Company": "Salesforce",
+    "Market Cap": "243.2",
+    "Price": "255.47",
+    "Symbol": "CRM",
+    "Yield": "0.7%"
+  },
+  {
+    "12m Chg": "7.9%",
+    "1d Chg": "0.2%",
+    "1m Chg": "-2.7%",
+    "Company": "Travelers",
+    "Market Cap": "60.3",
+    "Price": "270.34",
+    "Symbol": "TRV",
+    "Yield": "1.6%"
+  },
+  {
+    "12m Chg": "-35.2%",
+    "1d Chg": "1.0%",
+    "1m Chg": "6.4%",
+    "Company": "UnitedHealth",
+    "Market Cap": "331.5",
+    "Price": "365.98",
+    "Symbol": "UNH",
+    "Yield": "2.4%"
+  },
+  {
+    "12m Chg": "-5.2%",
+    "1d Chg": "1.1%",
+    "1m Chg": "-10.0%",
+    "Company": "Verizon",
+    "Market Cap": "165.4",
+    "Price": "39.23",
+    "Symbol": "VZ",
+    "Yield": "7.0%"
+  },
+  {
+    "12m Chg": "23.5%",
+    "1d Chg": "0.1%",
+    "1m Chg": "3.1%",
+    "Company": "Visa",
+    "Market Cap": "670.5",
+    "Price": "347.82",
+    "Symbol": "V",
+    "Yield": "0.7%"
+  },
+  {
+    "12m Chg": "26.8%",
+    "1d Chg": "0.5%",
+    "1m Chg": "3.2%",
+    "Company": "Walgreens",
+    "Market Cap": "#VALUE!",
+    "Price": "NA",
+    "Symbol": "WBA",
+    "Yield": "0.0%"
+  },
+  {
+    "12m Chg": "26.6%",
+    "1d Chg": "-1.6%",
+    "1m Chg": "1.3%",
+    "Company": "Walmart",
+    "Market Cap": "832.9",
+    "Price": "104.47",
+    "Symbol": "WMT",
+    "Yield": "0.9%"
+  }
+]
