@@ -1,7 +1,6 @@
 package process
 
 import (
-	_ "log"
 	"goquery-extract-html-data/common"
 	"goquery-extract-html-data/parse_html_code"
 )
